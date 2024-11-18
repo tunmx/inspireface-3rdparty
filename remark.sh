@@ -21,6 +21,7 @@ cd ..
 git add MNN
 
 # indicators
+cd indicators
 git fetch --tags
 git checkout tags/v2.3
 cd ..
@@ -34,9 +35,9 @@ cd ..
 git add spdlog
 
 # yaml-cpp
+cd yaml-cpp
 git fetch --tags
 git checkout tags/yaml-cpp-0.6.3
-git add yaml-cpp
 cd ..
 git add yaml-cpp
 
