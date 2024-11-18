@@ -40,6 +40,4 @@ git add yaml-cpp
 cd ..
 git add yaml-cpp
 
-# inspireface-precompile-lite
-
 
