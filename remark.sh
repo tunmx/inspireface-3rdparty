@@ -16,7 +16,7 @@ git add Catch2
 # MNN
 cd MNN
 git fetch --tags
-git checkout tags/2.9.6
+git checkout tags/2.8.2
 cd ..
 git add MNN
 
